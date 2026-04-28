@@ -18,3 +18,4 @@ gcc main.c -o social
 
 ## Author
 Raja Sherina T
+CSE Dept
