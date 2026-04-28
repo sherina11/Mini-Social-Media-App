@@ -17,3 +17,4 @@ gcc main.c -o social
 ./social
 
 ## Author
+Raja Sherina T
