@@ -15,3 +15,5 @@
 ## How to Run
 gcc main.c -o social
 ./social
+
+## Author
